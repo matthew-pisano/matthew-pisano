@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome
 
-<!--
-**matthew-pisano/matthew-pisano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science master’s student at Rensselaer Polytechnic Institute with a focus on artificial intelligence.
 
-Here are some ideas to get you started:
+My research centers around cognitive artificial intelligence and natural language processing, two areas that interest me greatly. 
+I also enjoy finding interesting or useful projects to begin working on and develop them until they reach the best iteration they can be.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience in many languages, with JavaScript, Java, and Python being the ones in which my skills are most developed.
+I also have experience using the DevOps and Agile methodologies, full-stack development, and 
+continuous integration and continuous delivery using AWS Amplify.
+
+More information about my education and specific projects can be found in my [Resumé](https://github.com/matthew-pisano/Resume/blob/master/resume.pdf).
+
+Additionally, my portfolio website can be found at [reactordevelopment.com](https://reactordevelopment.com/).
