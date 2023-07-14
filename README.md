@@ -1,14 +1,13 @@
 # Welcome
 
-I am a computer science master’s student at Rensselaer Polytechnic Institute with a focus on artificial intelligence.
+I am a student and researcher working towards a Master’s in Computer Science at Rensselaer Polytechnic Institute with a focus on artificial intelligence.
 
-My research centers around cognitive artificial intelligence and natural language processing, two areas that interest me greatly. 
-I also enjoy finding interesting or useful projects to begin working on and develop them until they reach the best iteration they can be.
+My research centers around natural language processing and foundational models, two areas that interest me greatly. 
+I also enjoy drawing comparisons between biological and artificial intelligences as inspiration for the work that I do.
 
 I have experience in many languages, with JavaScript, Java, and Python being the ones in which my skills are most developed.
-I also have experience using the DevOps and Agile methodologies, full-stack development, and 
-continuous integration and continuous delivery using AWS Amplify.
+I also have experience in using foundational models, DevOps, full-stack development, and basic cognitive science.
 
 More information about my education and specific projects can be found in my [Resumé](https://github.com/matthew-pisano/Resume/blob/master/resume.pdf).
 
-Additionally, my portfolio website can be found at [reactordevelopment.com](https://reactordevelopment.com/).
+Additionally, my portfolio website can be found at [matthewpisano.com](https://matthewpisano.com/).
