@@ -1,12 +1,46 @@
 # Welcome
 
-I am a student and researcher working towards a Master’s in Computer Science at Rensselaer Polytechnic Institute with a focus on artificial intelligence.
 
-My research centers around natural language processing and foundational models, two areas that interest me greatly. 
-I also enjoy drawing comparisons between biological and artificial intelligences as inspiration for the work that I do.
+I am a Master's student in the Department of Computer Science at Rensselaer Polytechnic Institute.
 
-I have experience in many languages, with JavaScript, Java, and Python being the ones in which my skills are most developed.
-I also have experience in using foundational models, DevOps, full-stack development, and basic cognitive science.
+My research centers around language model alignment; enforcing safety without hampering its cognitive abilities.  I often draw inspiration from biological intelligences to aid im my work with artificial ones.  I enjoy learning about how the mind works and the cognitive principles that can be applied to it
+
+
+## Skills
+
+<div align="center">
+
+| Languages | Frameworks                                                                                                         
+|---|--------------------------------------------------------------------------------------------------------------------|
+| ![Python][python] ![JavaScript][javascript] ![Java][java] | ![PyTorch][pytorch] ![Transformers][transformers] ![AWS][aws] ![React][react] ![Next.js][next] ![Android][android] |
+
+</div>
+
+[python]: https://img.shields.io/badge/Python-3c4352?style=flat&logo=python
+[javascript]: https://img.shields.io/badge/JavaScript-3c4352?logo=javascript
+[java]: https://img.shields.io/badge/Java-3c4352?logo=coffeescript
+[pytorch]: https://img.shields.io/badge/PyTorch-3c4352?logo=pytorch
+[transformers]: https://img.shields.io/badge/🤗_Transformers-3c4352
+[react]: https://img.shields.io/badge/React-3c4352?logo=react
+[next]: https://img.shields.io/badge/Next.js-3c4352?logo=next.js
+[aws]: https://img.shields.io/badge/AWS-3c4352?logo=amazonaws
+[android]: https://img.shields.io/badge/Android-3c4352?logo=android
+
+
+## Contributions
+
+<div align="center">
+
+| ![][profile summary] | ![][language summary] |
+|----------------------|-----------------------|
+
+</div>
+
+[profile summary]: https://awesome-github-stats.azurewebsites.net/user-stats/matthew-pisano?cardType=level-alternate&theme=nord
+[language summary]: https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-pisano&layout=compact&theme=nord
+
+## Further Reading
+
 
 More information about my education and specific projects can be found in my [Resumé](https://github.com/matthew-pisano/Resume/blob/master/resume.pdf).
 
