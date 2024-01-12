@@ -42,6 +42,6 @@ My research centers around language model alignment; enforcing safety without ha
 ## Further Reading
 
 
-More information about my education and specific projects can be found in my [Resumé](https://github.com/matthew-pisano/Resume/blob/master/resume.pdf).
+More information about my education and specific projects can be found in my [Resumé](https://github.com/matthew-pisano/Resume/blob/master/out/resume.pdf).
 
 Additionally, my portfolio website can be found at [matthewpisano.com](https://matthewpisano.com/).
