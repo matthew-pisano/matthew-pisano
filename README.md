@@ -12,13 +12,14 @@ My research centers around language model alignment; enforcing safety without ha
 
 | Languages | Frameworks                                                                                                         
 |---|--------------------------------------------------------------------------------------------------------------------|
-| ![Python][python] ![JavaScript][javascript] ![Java][java] ![C++][cpp] ![CUDA][cuda] | ![PyTorch][pytorch] ![Transformers][transformers] ![OpenAI][openai] ![AWS][aws] ![React][react] ![Next.js][next] ![Android][android] |
+| ![Python][python] ![JavaScript][javascript] ![Java][java] ![C][c] ![C++][cpp] ![CUDA][cuda] | ![PyTorch][pytorch] ![Transformers][transformers] ![OpenAI][openai] ![AWS][aws] ![React][react] ![Next.js][next] ![Android][android] |
 
 </div>
 
 [python]: https://img.shields.io/badge/Python-3c4352?style=flat&logo=python
 [javascript]: https://img.shields.io/badge/JavaScript-3c4352?logo=javascript
 [java]: https://img.shields.io/badge/Java-3c4352?logo=coffeescript
+[c]: https://img.shields.io/badge/C-3c4352?style=flat&logo=c
 [cpp]: https://img.shields.io/badge/C%2B%2B-3c4352?style=flat&logo=cplusplus
 [cuda]: https://img.shields.io/badge/CUDA-3c4352?style=flat&logo=nvidia
 
