@@ -29,7 +29,7 @@ My research centers around language model alignment; enforcing safety without ha
 [openai]: https://img.shields.io/badge/OpenAI-3c4352?logo=openai
 [react]: https://img.shields.io/badge/React-3c4352?logo=react
 [next]: https://img.shields.io/badge/Next.js-3c4352?logo=next.js
-[aws]: https://img.shields.io/badge/AWS-3c4352?logo=amazonaws
+[aws]: https://img.shields.io/badge/AWS-3c4352?logo=amazonwebservices
 [android]: https://img.shields.io/badge/Android-3c4352?logo=android
 
 
