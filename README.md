@@ -1,7 +1,7 @@
 # Welcome
 
 
-I am a Master's student in the Department of Computer Science at Rensselaer Polytechnic Institute.
+My name is Matthew Pisano. I am an Artificial Intelligence researcher and software developer. I have a Master's degree in Computer Science from Rensselaer Polytechnic Institute.
 
 My research centers around language model alignment; enforcing safety without hampering its cognitive abilities.  I often draw inspiration from biological intelligences to aid im my work with artificial ones.  I enjoy learning about how the mind works and the cognitive principles that can be applied to it.
 
