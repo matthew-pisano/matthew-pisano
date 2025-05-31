@@ -1,9 +1,9 @@
 # Welcome
 
 
-My name is Matthew Pisano. I am an Artificial Intelligence researcher and software developer. I have a Master's degree in Computer Science from Rensselaer Polytechnic Institute.
+My name is Matthew Pisano. I am an Artificial Intelligence researcher and software engineer. I have a Master's degree in Computer Science from Rensselaer Polytechnic Institute and I currently work for IBM on their new AI accelerator chips.
 
-My research centers around language model alignment; enforcing safety without hampering its cognitive abilities.  I often draw inspiration from biological intelligences to aid im my work with artificial ones.  I enjoy learning about how the mind works and the cognitive principles that can be applied to it.
+My research centers around language model alignment; enforcing safety without hampering its cognitive abilities.  I often draw inspiration from biological intelligences to aid im my work with artificial ones.  I enjoy learning about how the mind works and the fundamental cognitive principles that it is built upon.
 
 
 ## Skills
@@ -12,7 +12,7 @@ My research centers around language model alignment; enforcing safety without ha
 
 | Languages | Frameworks                                                                                                         
 |---|--------------------------------------------------------------------------------------------------------------------|
-| ![Python][python] ![JavaScript][javascript] ![Java][java] ![C][c] ![C++][cpp] ![CUDA][cuda] | ![PyTorch][pytorch] ![Transformers][transformers] ![OpenAI][openai] ![AWS][aws] ![React][react] ![Next.js][next] ![Android][android] |
+| ![Python][python] ![C][c] ![C++][cpp] ![ASM][asm] ![CUDA][cuda] ![JavaScript][javascript] ![Java][java] | ![PyTorch][pytorch] ![Transformers][transformers] ![OpenAI][openai] ![AWS][aws] ![React][react] ![Next.js][next] ![Android][android] |
 
 </div>
 
@@ -22,6 +22,7 @@ My research centers around language model alignment; enforcing safety without ha
 [c]: https://img.shields.io/badge/C-3c4352?style=flat&logo=c
 [cpp]: https://img.shields.io/badge/C%2B%2B-3c4352?style=flat&logo=cplusplus
 [cuda]: https://img.shields.io/badge/CUDA-3c4352?style=flat&logo=nvidia
+[asm]: https://img.shields.io/badge/ASM-3c4352?style=flat&logo=riscv
 
 
 [pytorch]: https://img.shields.io/badge/PyTorch-3c4352?logo=pytorch
