@@ -3,7 +3,7 @@
 
 My name is Matthew Pisano. I am an Artificial Intelligence researcher and software engineer. I have a Master's degree in Computer Science from Rensselaer Polytechnic Institute and I currently work for IBM on their new AI accelerator chips.
 
-My research centers around language model alignment; enforcing safety without hampering its cognitive abilities.  I often draw inspiration from biological intelligences to aid im my work with artificial ones.  I enjoy learning about how the mind works and the fundamental cognitive principles that it is built upon.
+My research centers around language model alignment; enforcing safety without hampering its cognitive abilities.  I often draw inspiration from biological intelligences to aid in my work with artificial ones.  I enjoy learning about how the mind works and the fundamental cognitive principles that it is built upon.
 
 
 ## Skills
